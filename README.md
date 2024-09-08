@@ -49,18 +49,18 @@ My name is Hoang. I am a sophomore in VNUHCM - University of Science, studying a
 
 
 ### Github stats:
-![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoangfitus&show_icons=true&theme=tokyonight&hide=stars,prs,issues)
+![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoangfitus&show_icons=true&theme=tokyonight&hide=stars,issues)
 
-<a href="https://github.com/ntkwan/csc10003-svg-reader">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntkwan&repo=csc10003-svg-reader&theme=cobalt" />
-</a>    
-<a href="https://github.com/BusCash/Wordle">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BusCash&repo=Wordle&theme=onedark" />
+<a href="https://github.com/ntkwan/csc13002-sound-vault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc13002-sound-vault&theme=shades-of-purple" />
 </a>
-
+<a href="https://github.com/ntkwan/csc10003-svg-reader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc10003-svg-reader&theme=cobalt" />
+</a>    
+</a>
 <a href="https://github.com/ntkwan/csc10008-proxy-server">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ntkwan&repo=csc10008-proxy-server&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc10008-proxy-server&theme=gruvbox" />
+</a>
+<a href="https://github.com/BusCash/Wordle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BusCash&repo=Wordle&theme=onedark" />
 </a>
