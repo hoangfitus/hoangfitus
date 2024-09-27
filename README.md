@@ -1,9 +1,9 @@
 # Hello there 👋👋👋
-My name is Hoang. I am a sophomore in VNUHCM - University of Science, studying a Bachelor’s Degree in Information Technology and majoring in Artificial Intelligence. My particular fields of interest revolve around Deep Learning in Computer Vision🔥🔥🔥
+My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Bachelor’s Degree in Information Technology and majoring in Software Engineering.
 
 ## Something about me 👇👇
-- 👯 I'm eager to secure an internship in an AI company
-- 🥅 2024 Goals: Learn more about genAI and deep learning
+- 👯 I'm eager to secure an internship
+- 🥅 2024 Goals: Learn more about AI and software technology
 - ⚡ Fun fact: I love to play badminton
 
 ### Connect with me:
