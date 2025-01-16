@@ -1,10 +1,5 @@
-# Hello there 👋👋👋
+## Hi guys 👋
 My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Bachelor’s Degree in Information Technology and majoring in Software Engineering.
-
-## Something about me 👇👇
-- 👯 I'm eager to secure an internship
-- 🥅 2024 Goals: Learn more about AI and software technology
-- ⚡ And I love to play badminton
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nduyhoang/)
@@ -71,13 +66,13 @@ My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Ba
 <a href="https://github.com/ntkwan/csc13002-sound-vault">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc13002-sound-vault&theme=shades-of-purple" />
 </a>
-<a href="https://github.com/ntkwan/csc10003-svg-reader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc10003-svg-reader&theme=cobalt" />
+<a href="https://github.com/ntkwan/csc14005-tiawai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc14005-tiawai&theme=cobalt" />
 </a>    
 </a>
-<a href="https://github.com/ntkwan/csc10008-proxy-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc10008-proxy-server&theme=gruvbox" />
+<a href="https://github.com/ntkwan/csc10003-svg-reader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc10003-svg-reader&theme=gruvbox" />
 </a>
-<a href="https://github.com/BusCash/Wordle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BusCash&repo=Wordle&theme=onedark" />
+<a href="https://github.com/hoangfitus/netflix-receive-pin-discord-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangfitus&repo=netflix-receive-pin-discord-bot&theme=onedark" />
 </a>
