@@ -66,8 +66,8 @@ My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Ba
 <a href="https://github.com/ntkwan/csc13002-sound-vault">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc13002-sound-vault&theme=shades-of-purple" />
 </a>
-<a href="https://github.com/ntkwan/csc14005-tiawai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc14005-tiawai&theme=cobalt" />
+<a href="https://github.com/hoangfitus/student-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangfitus&repo=student-management&theme=cobalt" />
 </a>    
 </a>
 <a href="https://github.com/ntkwan/csc10003-svg-reader">
