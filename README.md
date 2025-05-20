@@ -62,17 +62,3 @@ My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Ba
 
 ### Github stats:
 ![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoangfitus&show_icons=true&theme=tokyonight&hide=stars,issues)
-
-<a href="https://github.com/ntkwan/csc13002-sound-vault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkwan&repo=csc13002-sound-vault&theme=shades-of-purple" />
-</a>
-<a href="https://github.com/tiawai/csc13010-tiawai-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiawai&repo=csc13010-tiawai-client&theme=gruvbox" />
-</a>
-<a href="https://github.com/hoangfitus/student-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangfitus&repo=student-management&theme=cobalt" />
-</a>    
-</a>
-<a href="https://github.com/hoangfitus/netflix-receive-pin-discord-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangfitus&repo=netflix-receive-pin-discord-bot&theme=onedark" />
-</a>
