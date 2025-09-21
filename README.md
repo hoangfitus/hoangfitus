@@ -1,5 +1,5 @@
 ## Hi guys 👋
-My name is Hoang. I am a junior in VNUHCM - University of Science, studying a Bachelor’s Degree in Information Technology and majoring in Software Engineering.
+My name is Hoang. I am a senior in VNUHCM - University of Science, studying a Bachelor’s Degree in Information Technology and majoring in Software Engineering.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nduyhoang/)
