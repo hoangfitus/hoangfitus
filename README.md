@@ -1,5 +1,5 @@
 ## Hi guys 👋
-My name is Hoang. I am lowkey dev.
+My name is Hoang. I am a lowkey dev.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nduyhoang/)
