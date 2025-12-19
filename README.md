@@ -28,8 +28,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <!-- Cursor -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="34" height="34" alt="Cursor" /></a>
-<!-- Linux -->
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <!-- Jira -->
